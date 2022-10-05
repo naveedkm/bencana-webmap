@@ -1,0 +1,1 @@
+var json_GunungMerapi_7 = {"type":"FeatureCollection","name":"GunungMerapi_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"nama_g":null},"geometry":{"type":"Point","coordinates":[110.446198120620508,-7.541289116156726]}}]}

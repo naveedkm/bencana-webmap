@@ -1,0 +1,1 @@
+var json_GunungMerapiMeter_27 = {"type":"FeatureCollection","name":"GunungMerapiMeter_27","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"Gunung":"Gunung Merapi"},"geometry":{"type":"Point","coordinates":[110.446198120620508,-7.541289116156729]}}]}
